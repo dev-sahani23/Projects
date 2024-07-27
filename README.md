@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe](https://via.placeholder.com/150)
+![Tic Tac Toe]("C:\Users\DEV\OneDrive\Pictures\Screenshots\Screenshot (1).png")
 
 A simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
