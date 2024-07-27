@@ -12,8 +12,6 @@ A simple implementation of the classic Tic Tac Toe game using HTML, CSS, and Jav
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
